@@ -1,0 +1,15 @@
+# ninja log v5
+70	742	7307466980273199	CMakeFiles/OOPLab01.dir/ex1/version1/app.cpp.obj	2752cf044245947f
+0	981	7307483529547209	CMakeFiles/OOPLab01.dir/ex3/version1/app.cpp.obj	29bca6391c9e4866
+0	590	7307486389738655	CMakeFiles/OOPLab01.dir/ex3/version2/app.cpp.obj	6551d745e66923fa
+52	746	7307466980273199	CMakeFiles/OOPLab01.dir/ex1/version2/tests.cpp.obj	27ba6bf094a97d8c
+64	748	7307466980303206	CMakeFiles/OOPLab01.dir/ex1/version2/app.cpp.obj	c2d0494c51deb80e
+55	575	7307478981572995	CMakeFiles/OOPLab01.dir/ex3/tests.cpp.obj	85f4b4c53ee9ce87
+0	1281	7307466985683191	CMakeFiles/OOPLab01.dir/main.cpp.obj	d4d528bbbedaf9e5
+8	1110	7307467430621545	CMakeFiles/OOPLab01.dir/ex1/version2/problem.cpp.obj	808dd1727ba73f45
+1	345	7307669767814533	build.ninja	43c861ffd8ae2e1a
+1044	1341	7307486397198706	OOPLab01.exe	ff47a9b5b567ee9
+5	539	7307478981202964	CMakeFiles/OOPLab01.dir/ex3/app.cpp.obj	d0642a1727df31d3
+5	922	7307474505493714	CMakeFiles/OOPLab01.dir/ex3/problem.cpp.obj	806471276a25b49c
+53	616	7307486390008665	CMakeFiles/OOPLab01.dir/ex3/version2/tests.cpp.obj	499ef563f8f726ee
+48	1044	7307486394288634	CMakeFiles/OOPLab01.dir/ex3/version2/problem.cpp.obj	64bd925ae3f7d5c4
